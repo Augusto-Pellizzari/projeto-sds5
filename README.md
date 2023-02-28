@@ -2,8 +2,8 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Augusto-Pellizzari/projeto-sds5/blob/main/LICENSE) 
 
 # Sobre o projeto
-
 https://dsvendas-augustopellizzari.netlify.app/
+"OBS: após o Heroku ter descontinuado os serviços gratuitos, esta aplicação não está mais disponível em núvem."
 
 DSVendas é uma aplicação full stack web e mobile construída durante a 5ª edição da **Semana DevSuperior** (#sds5), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
